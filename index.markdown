@@ -18,7 +18,7 @@ layout: default
 
   {% assign file_name = session.Title | replace: " ", "_" | replace: "/", "" | append: ".ics" %}
 
-  <div class="cal"><a href="{{ file_name | prepend: "/assets/events/" }}">ical</a></div>
+  <div class="cal"><a href="{{ file_name | prepend: "/assets/events/" }}"><img src="assets/images/calendar.png"></a></div>
   <div class="link">Aviary Link: <a href="{{ session.Share_Link }}">{{ session.Share_Link }}</a></div>
   <div class="abstract">
     <h3>Abstract</h3>
