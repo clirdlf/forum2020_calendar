@@ -14,13 +14,16 @@ layout: default
 <div class="session">
   <h2>{{ session.Title }}</h2>
 
-  {{ session.start | date: "%A, %B %d at %I:%M%p"}}
+  <h3>{{ session.start | date: "%A, %B %d at %I:%M%p"}}</h3>
 
   {% assign file_name = session.Title | replace: " ", "_" | replace: "/", "" | append: ".ics" %}
 
   <div class="cal"><a href="{{ file_name | prepend: "/assets/events/" }}">ical</a></div>
   <div class="link">Aviary Link: <a href="{{ session.Share_Link }}">{{ session.Share_Link }}</a></div>
-  <div class="abstract">{{ session.Description | replace: "|", "<br><br>" }}</div>
+  <div class="abstract">
+    <h3>Abstract</h3>
+    {{ session.Description | replace: "|", "<br><br>" }}
+  </div>
 </div>
 {% endfor %}
 
