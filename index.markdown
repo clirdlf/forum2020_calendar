@@ -29,5 +29,3 @@ layout: default
 
 
 </div>
-
-{{site.data.sessions}}
