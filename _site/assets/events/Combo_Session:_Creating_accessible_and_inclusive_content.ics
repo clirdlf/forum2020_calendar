@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:568aa5d9-adfb-48c3-9505-a3aaa3b687cf
+DTSTART:20201109T160000
+DTEND:20201109T164500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/ht2g737p1n\n\n Rece
+ nt lawsuits against Hunters Point Library in New York for violation of Ame
+ ricans with Disabilities Act (ADA) evidence that accessibility is not opti
+ onal\, but rather mandatory for professional at all levels. This presentat
+ ion builds on different fields to present approaches to address accessibil
+ ity for practitioners in digital library\, archives\, and museums.\n\nDigi
+ tal libraries are expected to follow accessibility guidelines to ensure pe
+ ople with disabilities can use them. Our presentation addresses the fourth
+  requirement of the internationally adopted Web Content Accessibility Guid
+ elines\, which requires web content to work with people’s assistive tech
+ nologies. This requirement is often neglected\, perhaps because of its com
+ plexity.\n\nAs video content increases in importance online and in digital
+  collections\, it is vital that this content be accessible. While captions
+  are the best known accessibility feature for videos\, audio description a
+ nd transcripts are important to include all users. This presentation will 
+ introduce these features and workflows for their creation.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Combo Session: Creating accessible and inclusive c
+ ontent
+URL:https://2020clirevents.aviaryplatform.com/r/ht2g737p1n
+END:VEVENT
+END:VCALENDAR

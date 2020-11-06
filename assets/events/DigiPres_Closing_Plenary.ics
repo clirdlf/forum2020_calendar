@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:708b2155-89ce-4c49-8620-3c53c3e38d5f
+DTSTART:20201112T163000
+DTEND:20201112T164500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/hq3rv0df03\n\n For 
+ the closing plenary\, conference vice-chair Tricia Patterson will reflect 
+ on the DigiPres 2020 program and everyone that contributed to crafting it 
+ - and look ahead at what the community can achieve together in the coming 
+ year.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - DigiPres Closing Plenary
+URL:https://2020clirevents.aviaryplatform.com/r/hq3rv0df03
+END:VEVENT
+END:VCALENDAR

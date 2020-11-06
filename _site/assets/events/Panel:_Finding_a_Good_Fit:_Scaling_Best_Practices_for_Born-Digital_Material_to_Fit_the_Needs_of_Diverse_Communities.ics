@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:e762b6a8-a854-4599-8104-4bd38cca1bbb
+DTSTART:20201110T140000
+DTEND:20201110T144500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/5t3fx7490g\n\n Many
+  different types and sizes of institutions hold and continue to acquire bo
+ rn-digital materials in their collections\, and seek flexible and sustaina
+ ble solutions for stewarding these materials. This panel brings together t
+ hree non-academic institutions who have navigated creating and maintaining
+  digital programs in a variety of settings\, for diverse audiences.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: Finding a Good Fit: Scaling Best Practices 
+ for Born-Digital Material to Fit the Needs of Diverse Communities
+URL:https://2020clirevents.aviaryplatform.com/r/5t3fx7490g
+END:VEVENT
+END:VCALENDAR

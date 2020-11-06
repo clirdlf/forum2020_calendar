@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:925e8126-55b5-4623-abf1-b228413093ad
+DTSTART:20201113T150000
+DTEND:20201113T160000
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/930ns0m973\n\n The 
+ intention of this discussion is for the participants to share their experi
+ ences with increasing organizational capacity through partnerships with si
+ milarly positioned organizations\, as well as fostering equitable communit
+ y engagement. Additionally\, we will discuss how to manage the expectation
+ s of funders and other stakeholders alongside project goals and organizati
+ onal capacity.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Networking Across and Managing Up
+URL:https://2020clirevents.aviaryplatform.com/r/930ns0m973
+END:VEVENT
+END:VCALENDAR

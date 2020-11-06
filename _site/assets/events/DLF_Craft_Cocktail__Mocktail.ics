@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:9ca9078a-fb3c-4673-a5d5-682b0976d276
+DTSTART:20201109T180000
+DTEND:20201109T190000
+DESCRIPTION:https://forum2020.diglib.org/2020-dlf-cocktail-mocktail/\n\n Ba
+ ltimore-based bartender Ashley Mac has created a DLF signature cocktail an
+ d mocktail that you can enjoy from the comfort of your own home with a few
+  inexpensive ingredients. Recipe now available. Demo video coming soon.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - DLF Craft Cocktail / Mocktail
+URL:https://forum2020.diglib.org/2020-dlf-cocktail-mocktail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:d1519952-0b8f-4574-a207-0d7399527c07
+DTSTART:20201109T160000
+DTEND:20201109T164500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/7h1dj58w6s\n\n As t
+ he hub for immersive technologies at the University of Rochester\, Studio 
+ X's anticipated Fall 2020 opening has been delayed due to COVID-19. This p
+ anel will share insights and strategies for re-envisioning a physical spac
+ e-based community as a virtual one in the midst of the pandemic.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: Creating a Virtual Community for Virtual Re
+ ality: Challenges and Solutions for Program Building During a Pandemic
+URL:https://2020clirevents.aviaryplatform.com/r/7h1dj58w6s
+END:VEVENT
+END:VCALENDAR

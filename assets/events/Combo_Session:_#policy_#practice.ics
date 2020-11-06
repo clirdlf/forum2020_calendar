@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:5172ed53-e1c5-4d91-8155-84c5cc66d45e
+DTSTART:20201112T140000
+DTEND:20201112T144500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/bn9x05xs06\n\n 
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Combo Session: #policy #practice
+URL:https://2020clirevents.aviaryplatform.com/r/bn9x05xs06
+END:VEVENT
+END:VCALENDAR

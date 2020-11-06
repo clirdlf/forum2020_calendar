@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:8996a34c-bff8-4bb9-9a06-f666a8b5c7aa
+DTSTART:20201110T120000
+DTEND:20201110T124500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/d79571855s\n\n This
+  talk shares experiences in identifying ways to disrupt metadata bias. The
+  goal of these efforts is to arrive at a process that identifies and incor
+ porates controlled vocabularies from marginalized communities\, that respe
+ cts their interests\, and is not hindered by metadata formats or system te
+ chnology.\n\nToo often when documenting movement\, the community within wh
+ ich dances are created is ignored or overlooked. By combining insights fro
+ m knowledgeable members of the communities themselves with new technologic
+ al tools we can improve the interdisciplinary study of dance and other for
+ ms of movement through structured data and well-curated digital resources.
+  \n\nThis presentation describes the metadata schema\, content standard\, 
+ and taxonomy guidelines created for Curationist.org\, a crowd-sourced\, mu
+ ltilingual aggregator of open access cultural content. Designed to accommo
+ date multiple layers of metadata and to reflect Curationist’s progressiv
+ e values\, eventually\, this collectively enhanced dataset will be availab
+ le as linked open data.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Combo Session: Incorporating community vocabularie
+ s to broaden access
+URL:https://2020clirevents.aviaryplatform.com/r/d79571855s
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:b2752cd8-1da6-42a7-bfdf-2eaa382caf49
+DTSTART:20201109T170000
+DTEND:20201109T174500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/8c9r20s86z\n\n Univ
+ ersity of South Florida Libraries will present a panel discussion on how l
+ inked data technology can promote important digital cultural heritage coll
+ ections. Topics of discussion will include the benefits of linked open dat
+ a and how linked open data provides better access\, discoverability\, and 
+ interoperability of the collections.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: Linked While Apart: Overcoming Division wit
+ h Linked Data
+URL:https://2020clirevents.aviaryplatform.com/r/8c9r20s86z
+END:VEVENT
+END:VCALENDAR

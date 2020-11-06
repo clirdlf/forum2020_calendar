@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:4dcd67dc-29a7-41a4-ad82-0c1fd4c998db
+DTSTART:20201112T160000
+DTEND:20201112T163000
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/v11vd6pp4c\n\n Crea
+ ting the right team for long-term digital preservation can be hard….real
+ ly hard. Over several years\, the United States Holocaust Memorial Museum 
+ assembled a “team of rivals” made up of internal staff experts and our
+  preservation software vendor to implement a sustainable\, well-support di
+ gital repository.\n\nThis poster presents the results of a survey on 3D an
+ d virtual reality preservation methods combined with the results of a mult
+ i-case study on 3D datasets at Virginia Tech University Libraries. These r
+ esults culminated in a proposed 3D/VR preservation workflow employed by VT
+ UL on a current 3D digitization project.\n\nAdoption of digital preservati
+ on practices and technologies is on the rise\, but planning for preservati
+ on is not what it used to be\, especially for academic libraries. This ses
+ sion will explore the experiences of two archives and libraries in their m
+ ove to a unified digital preservation system.\n\nFedora 6 will focus on di
+ gital preservation by aligning with the Oxford Common File Layout (OCFL). 
+ This presentation will provide an overview of the application design\, inc
+ luding a brief introduction to the OCFL\, along with a summary of developm
+ ent progress to date and the timeline for the 6.0 release.\n\nThe Frick Ar
+ t Reference Library is systematically digitizing 1.2 million photographic 
+ images for access and preservation and is using lossless Jpeg-2000 as an a
+ rchival format to keep their storage needs feasible. This introduces sever
+ al challenges including new software proficiencies\, compatibility issues\
+ , and swamping the preservation system.\n\nThis presentation examines how 
+ to scale digital preservation actions for collections comprising millions 
+ of objects\, including working with stakeholders\, automated packaging and
+  ingest processes\, and reporting options.\n\nSoftware is ubiquitous world
+ wide\, and ensuring its preservation is important. Adequately preserving a
+ nd describing complex objects like source code\, binaries\, and hardware i
+ ntroduces major technical\, social\, and legal barriers. This panel will e
+ xplore how staff preserving software create physical and digital workspace
+ s to accomplish their goals.\n\nRecovering data from legacy data tapes can
+  be a daunting task. This lightening talk will explore the process of work
+ ing with taped-based media through the traversal of a series of decisions 
+ that takes us from a box of mystery tapes to rescued data.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - DigiPres Lightning Talks
+URL:https://2020clirevents.aviaryplatform.com/r/v11vd6pp4c
+END:VEVENT
+END:VCALENDAR

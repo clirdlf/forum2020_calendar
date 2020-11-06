@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:b422fdf3-f2da-4499-8131-dc455158976f
+DTSTART:20201113T110000
+DTEND:20201113T114500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/319s17t380\n\n 
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - 5 Years of Digitizing Hidden Collections: Funded P
+ roject Featurettes
+URL:https://2020clirevents.aviaryplatform.com/r/319s17t380
+END:VEVENT
+END:VCALENDAR

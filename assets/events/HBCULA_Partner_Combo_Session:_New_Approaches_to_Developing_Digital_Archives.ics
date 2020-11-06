@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:2ad3a783-630c-4730-99fe-c5e682c85946
+DTSTART:20201109T140000
+DTEND:20201109T144500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/x639z91295\n\n In F
+ ebruary of 2020\, Fisk University was awarded a Project Planning Grant by 
+ the Andrew W. Mellon Foundation. The grant focuses on organizing and curat
+ ing material from the university’s Julius Rosenwald Collections.\n\nDuri
+ ng this presentation\, Ms. Bowers\,Mrs. Rounds and Ms. Clark from Allen Un
+ iversity will provide information on discovery (how Mrs. Broughton founded
+  the Archives and the Naming Ceremony) the digital collection process with
+  Content DM and creating Meta Data\,\,incorporating Past Perfect Software\
+ , and best practices to be implemented.\n\nThe John Hay Library recently w
+ rote a collection development policy that articulates a transformative vis
+ ion for our collections and lays the groundwork for a new digital strategy
+ . Through this presentation\, we reflect on what it has meant to engage in
+  transformative collection praxis during this particular historical moment
+ .
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - HBCULA Partner Combo Session: New Approaches to De
+ veloping Digital Archives
+URL:https://2020clirevents.aviaryplatform.com/r/x639z91295
+END:VEVENT
+END:VCALENDAR

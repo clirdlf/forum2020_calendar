@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:c569b47f-b4e8-42ce-9663-e1f7d062e11c
+DTSTART:20201109T150000
+DTEND:20201109T154500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/j678s4k816\n\n This
+  panel will discuss the Burnham-Nobles Digital Archive\, which represents 
+ the Civil Rights and Restorative Justice Project at Northeastern Universit
+ y School of Law. Highlights include the collaborative efforts of project s
+ takeholders to honor victims of racially motivated violence and the archiv
+ al value of social justice informed collection arrangement and description
+ .
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: Recording Restorative Justice and Accountab
+ ility: The Burnham-Nobles Digital Archive
+URL:https://2020clirevents.aviaryplatform.com/r/j678s4k816
+END:VEVENT
+END:VCALENDAR

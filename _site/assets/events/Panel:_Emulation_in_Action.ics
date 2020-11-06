@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:69efe4d1-a445-431d-a52a-b4ba54fe4349
+DTSTART:20201110T150000
+DTEND:20201110T154500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/s46h12vw6d\n\n This
+  discussion panel highlights “emulation-in-action” within the EaaSI Ne
+ twork - a distributed\, community-driven architecture that supports the ex
+ change of software and configured emulation environments between instituti
+ ons. Brief demonstrations followed by facilitated discussion will explore 
+ three distinct emulation use cases: electronic music composition\, videoga
+ mes\, and social science data.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: Emulation in Action
+URL:https://2020clirevents.aviaryplatform.com/r/s46h12vw6d
+END:VEVENT
+END:VCALENDAR

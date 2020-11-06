@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:e279986e-0537-4c42-a683-5156e62cdf0a
+DTSTART:20201113T120000
+DTEND:20201113T130000
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/pv6b27qb3z\n\n Part
+ icipants from four different CLIR digitizing Hidden Collections projects w
+ ill discuss their collaborations and partnerships.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Successful Partnerships Lead to Successful Collabo
+ rations
+URL:https://2020clirevents.aviaryplatform.com/r/pv6b27qb3z
+END:VEVENT
+END:VCALENDAR

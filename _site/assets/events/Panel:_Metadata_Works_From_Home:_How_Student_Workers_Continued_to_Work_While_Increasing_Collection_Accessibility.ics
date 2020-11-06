@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:bea80992-0fb1-4a3b-a4b7-183230884fb9
+DTSTART:20201109T150000
+DTEND:20201109T154500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/jw86h4d75s\n\n Face
+ d with campus closures\, a University of Houston Libraries team developed 
+ plans to engage student employees in creating closed captions for hundreds
+  of archival videos on the Libraries’ Audio/Video Repository. Panelists 
+ will describe the project and address unique challenges related to transcr
+ ibing archival content\, including dated and offensive content.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: Metadata Works From Home: How Student Worke
+ rs Continued to Work While Increasing Collection Accessibility
+URL:https://2020clirevents.aviaryplatform.com/r/jw86h4d75s
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:42ba84ce-1d1e-486e-bf8f-d6e65137b6e9
+DTSTART:20201110T110000
+DTEND:20201110T114500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/v40js9hx2v\n\n This
+  panel presentation will address how one HBCU-affiliated library\, the Atl
+ anta University Center Robert W. Woodruff Library\, tackled adjusting arch
+ ival processes and workflows in response to the COVID-19 pandemic. It will
+  also discuss how the Library is seeking to collect archival collections m
+ ore responsively and actively in our changing world.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: Managing in a Crisis: How an HBCU Library i
+ s Adapting Digital and Archival Workflows in a Rapidly Changing World
+URL:https://2020clirevents.aviaryplatform.com/r/v40js9hx2v
+END:VEVENT
+END:VCALENDAR

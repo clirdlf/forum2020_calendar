@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:007b7f3e-4579-4a1f-a1ae-93082850022f
+DTSTART:20201110T140000
+DTEND:20201110T144500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/db7vm4393b\n\n The 
+ Atlanta University Center Robert W. Woodruff Library is home to extensive 
+ archival collections that document the history of HBCU education\, campus 
+ and student life\, and the development of higher education in Atlanta\, al
+ ong with collections related to civic and social organizations of Black co
+ mmunities in and around the south.\n\nThis presentation will highlight the
+  early years of SC State University from 1896-1911 under the University’
+ s first president\, Thomas E. Miller.\n\nThe Oakwood University Archives w
+ as established in 1973\, as a depository of historical records. Its aim is
+  to preserve source materials related to Oakwood University\, its constitu
+ ents\, and the community with reliable resources. The information housed i
+ ncludes but not limited to photographs\, historical documents\, yearbooks\
+ , and presidential papers.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - HBCULA Partner Combo Session: Digitally Documentin
+ g and Preserving the Heritage of HBCU Institutions
+URL:https://2020clirevents.aviaryplatform.com/r/db7vm4393b
+END:VEVENT
+END:VCALENDAR

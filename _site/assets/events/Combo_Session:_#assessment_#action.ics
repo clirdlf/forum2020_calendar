@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:13e4b66d-4836-4e36-b672-bf0c38834d84
+DTSTART:20201112T130000
+DTEND:20201112T134500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/dv1cj8830x\n\n In F
+ all 2019\, NARA released a draft of its Digital Preservation Framework for
+  public comment. We’ll discuss the past year’s work and what’s next 
+ as our holdings continue to grow. We hope by sharing about the framework a
+ nd soliciting feedback\, it will serve as a digital preservation community
+  resource.\n\nDiAGRAM is a decision support system\, developed by The Nati
+ onal Archives\, the Applied Statistics & Risk Unit\, and partner archives.
+  It is based on a probabilistic graphical model that captures the complex 
+ interdependencies of risk events and allows archivists to quantitatively e
+ valuate their impact and compare potential risk management strategies.\n\n
+ How are Canadians making active plays towards digital preservation? We wil
+ l present the results of the CARL Digital Preservation Working Group surve
+ y of Canadian memory institutions\, and the subsequent development of thre
+ e focus areas to address key gaps in their ability to safely pass digital 
+ collections into the future.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Combo Session: #assessment #action
+URL:https://2020clirevents.aviaryplatform.com/r/dv1cj8830x
+END:VEVENT
+END:VCALENDAR

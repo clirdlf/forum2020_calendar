@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:7c583bb2-4b88-429a-a9cd-958b7e4f8610
+DTSTART:20201109T100000
+DTEND:20201109T110000
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/pc2t43jm2q\n\n Repr
+ esentatives from the IMLS-funded Collective Responsibility: National Forum
+  on Labor Practices for Grant-Funded Digital Positions steering committee 
+ will introduce and demonstrate the use of three tools to promote labor equ
+ ity. Attendees will learn more about equitable project design\, grant appl
+ ication language\, and talking about contingency at work.\n\nLearn about a
+ ppropriately using color in charts\, some online tools for selecting and e
+ valuating colorblind-safe color palettes\, and four design principles for 
+ creating maximally accessible data visualizations for all readers (simplic
+ ity\, context\, legibility\, and contrast).\n\nWhile a custom-built digita
+ l collection\, exhibition\, or repository can be a huge undertaking\, it d
+ oesn’t need to be! This session showcases Jekyll and Wax as helpful tool
+ s for building digital scholarship projects minimally. We’ll explain the
+  philosophy behind these tools\, explore an example repository\, and direc
+ t you to additional resources.\n\nOral History as Data (OHD) is a static w
+ eb tool that transforms interview transcript data into interactive website
+ s. Users can publish\, search\, visualize\, and share the text and audio/v
+ ideo from oral histories\, qualitative interviews and similar outputs via 
+ the web in a few simple steps.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Learn@DLF Tutorials 1
+URL:https://2020clirevents.aviaryplatform.com/r/pc2t43jm2q
+END:VEVENT
+END:VCALENDAR

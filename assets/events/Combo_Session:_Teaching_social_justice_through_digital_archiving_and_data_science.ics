@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:c41b7b22-6e68-4c07-b33c-2f28e8fc9a48
+DTSTART:20201110T110000
+DTEND:20201110T114500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/vt1gh9c10x\n\n As a
+ cademic librarians increasingly teach data science skills\, attention must
+  be paid to scholarship arguing that big data increases inequality. By int
+ egrating data justice principles into instruction\, librarians can encoura
+ ge students to become responsible data practitioners. This presentation ou
+ tlines ways librarians can include ethics and justice in data instruction.
+ \n\nThis presentation offers student and instructor perspectives on archiv
+ al justice in the DH graduate classroom and the various DH literacies and 
+ competencies such a focus enables. In particular\, we provide a closer loo
+ k at the creation of "Digital El Diario\," a project that resulted from a 
+ discipline-agnostic graduate course.\n\nThis presentation examines the com
+ munity activism and archival work in Minneapolis\, Minnesota related to an
+ ti-police violence against BIPOC. It highlights the work of activist Wanja
+  Kuria\, who\, after Floyd’s murder\, began protesting racism\, state-sa
+ nctioned violence and documenting the ways in which the Black Lives Matter
+  Movement operates on the ground.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Combo Session: Teaching social justice through dig
+ ital archiving and data science
+URL:https://2020clirevents.aviaryplatform.com/r/vt1gh9c10x
+END:VEVENT
+END:VCALENDAR

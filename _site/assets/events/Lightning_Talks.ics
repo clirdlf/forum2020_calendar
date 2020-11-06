@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:313296d7-97c4-47de-9049-0458771bef61
+DTSTART:20201109T180000
+DTEND:20201109T190000
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/0z70v89v85\n\n This
+  presentation discusses the Penn and Slavery Project\, an augmented realit
+ y tour and a research website\, in the context of political and technologi
+ cal realities at the University of Pennsylvania. It considers how libraria
+ ns structured opportunities to empower students to harness the possibility
+  and technology of augmented reality for public scholarship.\n\nWe can’t
+  meet safely in person\, but we can still gather to share best practices a
+ nd build community. Join representatives from the IIIF Consortium\, the LD
+ 4 Conference planning committee\, and CLIR/DLF as they discuss the opportu
+ nities and the pitfalls prompted by the pandemic-related cancellation of i
+ n-person events.\n\nThis presentation will describe the collaborative deve
+ lopment process of CollectionBuilder\, a static web application that uses 
+ Jekyll\, APIs\, and structured metadata to improve the browsing\, design\,
+  and visualization capacities for digital collections. Community-driven co
+ llaboration with partner institutions has broadened the capacity of Collec
+ tionBuilder as a skin interface and teaching tool.\n\nProviding access to 
+ sensitive data is unpopular within digital libraries and repositories due 
+ to the inherent disclosure risk. Hashicorp's Vault platform has made it po
+ ssible for us to implement a lightweight solution for secure\, zero-knowle
+ dge encryption of deposited datasets\, while still facilitating access req
+ uests.\n\nIn the summer of 2020\, librarians and undergraduates at Gettysb
+ urg College collaborated virtually to develop the DH Toolkit\, a collectio
+ n of digital learning objects for Digital Humanities tools and concepts. T
+ his lightning talk will discuss the collaborative framework for creating t
+ he toolkit and its future in DH pedagogy at Gettysburg.\n\nDespite demand\
+ , academic libraries struggle to provide big bibliometric datasets for the
+ ir patrons due to the cost and specialized expertise the datasets require.
+  CADRE is a cloud-based platform for sharing\, provisioning\, and analyzin
+ g big bibliometric data. Libraries share CADRE development expenses to red
+ uce per-library costs\, while increasing access for patrons.\n\nThis prese
+ ntation will focus on the complexities\, challenges\, and collaboration th
+ at was necessary for completion of a three-year NEH grant to digitize\, de
+ scribe\, and publicly release the Berkeley Folk Music Festival Collection.
+  Challenges include redacting social security numbers\, establishing autho
+ rity records\, describing esoteric text\, and developing a content managem
+ ent system.\n\nThe presenters conducted a multi-stage\, multi-year researc
+ h study of the images required to represent complex scrapbooks in an onlin
+ e environment. This presentation reflects on the process of the study\, th
+ e methods used\, what went well\, and what they would do differently. Find
+ ings from the research will also be presented.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Lightning Talks
+URL:https://2020clirevents.aviaryplatform.com/r/0z70v89v85
+END:VEVENT
+END:VCALENDAR

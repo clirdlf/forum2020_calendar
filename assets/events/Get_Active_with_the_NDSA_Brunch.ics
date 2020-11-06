@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:974a6906-9ee3-4020-8dcb-a739956d77d6
+DTSTART:20201112T123000
+DTEND:20201112T130000
+DESCRIPTION:\n\n Join us for an informal breakfast with members of NDSA’s
+  Leadership Group\, including Interest Group Chairs and the Coordinating C
+ ommittee. Learn about NDSA\, its current work\, how your institution can b
+ ecome a member\, and the variety of ways you can become involved. Pick up 
+ your breakfast before you join us!
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Get Active with the NDSA Brunch
+END:VEVENT
+END:VCALENDAR

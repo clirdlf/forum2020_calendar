@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:27ddf08f-4b74-4b3f-b750-37ddc53accc0
+DTSTART:20201112T150000
+DTEND:20201112T154500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/cn6xw48940\n\n This
+  presentation will describe the value of making organizational infrastruct
+ ure (and specifically documentation) a central focus of your digital prese
+ rvation program. Emphasis will be put on how documentation can help move y
+ our institution’s digital preservation project(s) to a programmatic ente
+ rprise on the level of other key library functions.\n\nHarvard Library’s
+  new preservation storage infrastructure relies on tiered storage and auto
+ mated disposition of content based upon its formal characteristics and ass
+ essed curatorial value. The system is designed to embrace the widest range
+  of storage technologies and providers\, and offer enhanced operational fl
+ exibility and cost-minimization without sacrificing imperative stewardship
+  goals.\n\nThe Texas Digital Library (TDL) and the University of Californi
+ a\, San Diego Library (UCSD)\, are exploring the establishment of a distri
+ buted digital preservation service for sensitive data. The project\, funde
+ d by IMLS\, will develop a model for a DDP service that would close gaps i
+ n preservation offerings for such data.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Combo Session: #sustainability #technology
+URL:https://2020clirevents.aviaryplatform.com/r/cn6xw48940
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:f47a439b-f7f4-4388-ad56-6a6d33169caf
+DTSTART:20201110T150000
+DTEND:20201110T154500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/0r9m32nh9c\n\n Keep
+ ing documentation isolated to individuals - in email inboxes or other sing
+ le location - is unsustainable. We’ve aggregated documentation for 200+ 
+ digital collections into a central\, shared repository. We’ll share how 
+ we did this\, what we’re documenting\, who has access\, and why it was i
+ mportant to collaborate with internal and external stakeholders.\n\nDigita
+ l Humanities (DH) projects are complex with multiple moving components in 
+ need of preservation. Early preservation planning for each component is a 
+ strategy for long-term access. This presentation will break down various c
+ omponents of a DH project\, preservation approaches for those components\,
+  packaging methods for future recreation/emulation.\n\nDigital artifacts p
+ ose new challenges for delayed-release archiving. To protect our historica
+ l record for future generations\, we propose Strong Dark Archives (SDA)\, 
+ a blended administrative and technical protocol for securing delayed-relea
+ sed archival materials among networks of libraries.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Combo Session: Envisioning sustainable approaches 
+ to documentation and preservation
+URL:https://2020clirevents.aviaryplatform.com/r/0r9m32nh9c
+END:VEVENT
+END:VCALENDAR

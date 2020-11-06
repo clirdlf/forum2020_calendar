@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:d42b1e86-c174-48fe-9826-aeee3c9722e2
+DTSTART:20201113T163000
+DTEND:20201113T171500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/125q81522j\n\n This
+  session brings together a climatologist\, archivists\, producers and rese
+ archers who have experienced the impacts of (un)natural disasters in the c
+ ourse of their work and who are working to preserve collections and expose
+  historical data for climate modelling to generate greater awareness and u
+ nderstanding of the climate crisis.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Collections in the Era of the Climate Crisis
+URL:https://2020clirevents.aviaryplatform.com/r/125q81522j
+END:VEVENT
+END:VCALENDAR

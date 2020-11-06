@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:4f22bc82-3fb6-4ec0-8ff0-5f36478d8030
+DTSTART:20201110T100000
+DTEND:20201110T110000
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/696zw1911r\n\n In 2
+ 016\, multiple organizations launched a Data Management Training Clearingh
+ ouse. In 2018\, DMTC was awarded additional support for enhancement from I
+ MLS. This workshop will demonstrate the capabilities of the newly enhanced
+  DMTC by providing hands-on introduction to the search and curation functi
+ ons\, and inviting participants to join the DMTC community.\n\nThis tutori
+ al will teach the basics of using the open-source mapping program QGIS to 
+ georeference digitized maps along with publishing these maps using the sof
+ tware development platform GitHub and the mapping platform Mapbox.\n\nThe 
+ tutorial will highlight approaches and resources for transforming digital 
+ images into data for search and discovery. The tutorial will begin by intr
+ oducing the concept of computer vision. We will then share available resou
+ rces\, which include tutorials\, white papers\, and critiques of computer 
+ vision for identifying features in image collections.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Learn@DLF Tutorials 2
+URL:https://2020clirevents.aviaryplatform.com/r/696zw1911r
+END:VEVENT
+END:VCALENDAR

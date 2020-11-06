@@ -1,0 +1,15 @@
+require 'roo'
+
+task default: %w(build:sessions)
+
+namespace :build
+  desc 'Build sessions with linked calendars'
+  task :sessions do
+    @session_file = "aviary_cal/aviary.xlsx"
+    @xlsx = Roo::Spreadsheet.open(@session_file, headers: true)
+    @sheet = @xlsx.sheet(0)
+
+    
+
+  end
+end

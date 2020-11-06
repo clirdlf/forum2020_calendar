@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:f3e4bcff-3f73-421b-96cc-81663807036e
+DTSTART:20201113T140000
+DTEND:20201113T144500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/st7dr2pz6f\n\n CLIR
+  Digitizing Hidden Collections review panelists and grant recipients come 
+ together to discuss the application and review process from both perspecti
+ ves\, exchanging questions and describing their experiences with the progr
+ am.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - On Grant Writing and Project Design
+URL:https://2020clirevents.aviaryplatform.com/r/st7dr2pz6f
+END:VEVENT
+END:VCALENDAR

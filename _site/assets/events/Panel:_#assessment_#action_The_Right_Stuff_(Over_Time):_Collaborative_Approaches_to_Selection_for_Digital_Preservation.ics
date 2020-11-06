@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:4c988dfb-f2a4-4590-a619-9232a12bd040
+DTSTART:20201112T150000
+DTEND:20201112T154500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/610vq2sm64\n\n 
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: #assessment #action The Right Stuff (Over T
+ ime): Collaborative Approaches to Selection for Digital Preservation
+URL:https://2020clirevents.aviaryplatform.com/r/610vq2sm64
+END:VEVENT
+END:VCALENDAR

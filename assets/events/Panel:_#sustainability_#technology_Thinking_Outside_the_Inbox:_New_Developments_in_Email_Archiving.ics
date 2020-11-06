@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:f8ff2b57-a3c5-495a-8d7d-5675b6390584
+DTSTART:20201112T140000
+DTEND:20201112T144500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/j96057dd93\n\n 
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: #sustainability #technology Thinking Outsid
+ e the Inbox: New Developments in Email Archiving
+URL:https://2020clirevents.aviaryplatform.com/r/j96057dd93
+END:VEVENT
+END:VCALENDAR

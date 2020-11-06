@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:d4d588cf-db67-4582-8fa4-27e5bd6697f3
+DTSTART:20201113T130000
+DTEND:20201113T140000
+DESCRIPTION:\n\n Take a break from screens and connect with your inner chil
+ d (or your actual child!) using free coloring sheets from public domain co
+ llections. It’s meditative\, it’s a chance to add your own artistic tw
+ ist to a classic image\, and when you’re finished you can share your art
+ work with us and each other in the #colorourcollections Slack channel. Con
+ tributions by the whole family are encouraged\; fulsome praise guaranteed.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Lunchtime Coloring Break
+END:VEVENT
+END:VCALENDAR

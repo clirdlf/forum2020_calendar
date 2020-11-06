@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:2cc6272f-4fb8-49ac-8ae2-cdb4c78f6e03
+DTSTART:20201109T170000
+DTEND:20201109T174500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/qr4nk36s1x\n\n GIS 
+ represents an innovative step forward for academic libraries. This panel w
+ ill examine the use of GIS in a variety of ways: library instruction\, dis
+ aster preparedness\, and archives. As context and interactivity become mor
+ e necessary\, it’s important to consider and use tools outside the scope
+  of a traditional academic library.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: Where It’s At: Using GIS Tools for Engage
+ ment and Outreach at an HBCU Library
+URL:https://2020clirevents.aviaryplatform.com/r/qr4nk36s1x
+END:VEVENT
+END:VCALENDAR

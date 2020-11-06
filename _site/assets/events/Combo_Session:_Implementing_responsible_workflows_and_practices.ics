@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:980d2b3d-323b-4ea8-ba3c-3c037da70aa4
+DTSTART:20201109T140000
+DTEND:20201109T144500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/833mw28s69\n\n This
+  presentation will focus on definitions and ethical applications for use/r
+ euse of digital materials. The speakers will: provide finalized definition
+ s for use/reuse\; introduce the impact assessment matrix and ethical guide
+ lines\; and address the lack of common practices for what constitutes and 
+ how to assess reuse of digital materials.\n\nUC Berkeley Library’s respo
+ nsible access workflows and a corresponding community engagement policy su
+ pport cultural heritage institutions seeking to digitize special collectio
+ ns by helping institutions navigate complex areas of law and policy. They 
+ also address social justice\, adopting an ethics of care approach that bal
+ ances potential value and harm.\n\nWe discuss how we've trained and suppor
+ ted dozens of library workers researching copyright information on thousan
+ ds of 20th century serials held by Penn\, and publishing it as linked open
+  data via Wikidata. We show how the data benefits digitization projects an
+ d researchers\, and how more can get involved.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Combo Session: Implementing responsible workflows 
+ and practices
+URL:https://2020clirevents.aviaryplatform.com/r/833mw28s69
+END:VEVENT
+END:VCALENDAR

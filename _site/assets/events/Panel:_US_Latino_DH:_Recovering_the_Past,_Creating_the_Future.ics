@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201105T230103Z
+UID:5084537f-d27e-4bb6-9513-2fb3a44474d1
+DTSTART:20201110T120000
+DTEND:20201110T124500
+DESCRIPTION:https://2020clirevents.aviaryplatform.com/r/3n20c4t04c\n\n This
+  panel focuses on the use of underrepresented US Latinx archives and digit
+ al humanities to reconfigure how we understand the past and imagine a more
+  inclusive future through. The turn to the past allows to interrogate and 
+ rewrite/reimagine a US history where Latinx voices are not disregarded or 
+ erased.
+ORGANIZER;CN=DLF Forum:mailto:forum@diglib.org
+SUMMARY:DLF Forum 2020 - Panel: US Latino DH: Recovering the Past\, Creatin
+ g the Future
+URL:https://2020clirevents.aviaryplatform.com/r/3n20c4t04c
+END:VEVENT
+END:VCALENDAR
